@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9948" started-at="2020-03-03T16:50:39 IST" finished-at="2020-03-03T16:50:49 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9948" started-at="2020-03-03T16:50:39 IST" finished-at="2020-03-03T16:50:49 IST">
+      <class name="Test.testtest">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:Test.testtest@47ef968d]" name="beforetest" is-config="true" duration-ms="9887" started-at="2020-03-03T16:50:39 IST" finished-at="2020-03-03T16:50:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:Test.testtest@47ef968d]" name="test1" duration-ms="6" started-at="2020-03-03T16:50:49 IST" finished-at="2020-03-03T16:50:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:Test.testtest@47ef968d]" name="test2" duration-ms="1" started-at="2020-03-03T16:50:49 IST" finished-at="2020-03-03T16:50:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:Test.testtest@47ef968d]" name="test3" is-config="true" duration-ms="0" started-at="2020-03-03T16:50:49 IST" finished-at="2020-03-03T16:50:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- Test.testtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
